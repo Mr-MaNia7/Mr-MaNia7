@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm AbdulKarim Getachew </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+&hearts;++;Full-Stack+Developer(BE-heavy);Interested+in+ML;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+&hearts;++;Full-Stack+Developer(BE-heavy);Interested+in+AI+and+ML;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ----
@@ -21,11 +21,9 @@
 
 <br>
 
-- An AI Enthusiast
 - A Full-stack Engineer
-- Currently learning ML and Robotics
-- Researcher and Complex Problem Solver
-- A passionate Football Player
+- Complex Problem Solver
+- Passionate Researcher
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/19vGagwc_LJJlelZP_MTBCZidAZhBRZ8txY1GNcnwGPk/edit?usp=sharing)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
