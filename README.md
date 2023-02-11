@@ -24,7 +24,7 @@
 - A Full-stack Engineer
 - Complex Problem Solver
 - Passionate Researcher
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/19vGagwc_LJJlelZP_MTBCZidAZhBRZ8txY1GNcnwGPk/edit?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/10GTtugXZy02xPP1oaR6enEeh6MxSEnYXb4a5pIF7ud0/edit?usp=sharing)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 
 <br><br>
