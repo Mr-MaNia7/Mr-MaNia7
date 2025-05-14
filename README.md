@@ -29,10 +29,6 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
     </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-        width="40" height="40" />
-    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
         height="40" />
@@ -49,10 +45,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-        width="40" height="40" />
-    </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
     </a>
@@ -63,10 +55,6 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-        alt="electron" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -86,9 +74,6 @@
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
     </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
@@ -137,21 +122,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
         alt="numpy" width="40" height="40" />
     </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-        width="40" height="40" />
-    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
         alt="pandas" width="40" height="40" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-        height="40" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img
@@ -189,10 +162,10 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
     </a>
-    <!-- <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
         height="40" />
-    </a> -->
+    </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
         height="40" />
@@ -204,9 +177,6 @@
     <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
         alt="ubuntu" width="40" height="40" />
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg"
